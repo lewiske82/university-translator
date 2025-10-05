@@ -659,3 +659,23 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+---
+
+### 📄 LICENSE.md (gyökér)
+```markdown
+# MEGOSZTOTT BEVÉTELI LICENSZ
+
+**Eredeti Fejlesztő:** Dömös László Krisztián E.V.
+**Email:** domoslaszlokrisztian@gmail.com
+**PayPal:** domoslaszlokrisztian@gmail.com
+
+## BEVÉTELMEGOSZTÁS
+- Minimum: 30%
+- Maximum: 60%
+- Alapértelmezett: 40%
+
+## VÉDELEM
+⚠️ Az eredeti fejlesztő eltávolítása TILOS
+⚠️ Bevételmegosztás kiiktatása TILOS
+
+© 2025 Dömös László Krisztián E.V.
