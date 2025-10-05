@@ -1,0 +1,14 @@
+{
+  "name": "university-translator",
+  "version": "1.0.0",
+  "repository": "https://github.com/lewiske82/university-translator",
+  "author": {
+    "name": "Dömös László Krisztián E.V.",
+    "email": "domoslaszlokrisztian@gmail.com"
+  },
+  "scripts": {
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "dev:client": "cd client && npm start",
+    "dev:server": "cd server && npm run dev"
+  }
+}
